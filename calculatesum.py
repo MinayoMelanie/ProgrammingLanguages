@@ -1,3 +1,4 @@
+#Melanie Minayo SCT211-0043/2022
 name = input("Enter your name:")
 print("Hello "+name)
 num1= input("Input num1: ")
